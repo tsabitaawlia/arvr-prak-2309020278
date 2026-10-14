@@ -1,3 +1,3 @@
 - Nama : Tsabitah Awlia Yuswanti
 - NIM : 2309020278
-- Link demo : https://USERNAME.github.io/arvr-prak-2309020278/
+- Link demo : https://tsabitaawlia.github.io/arvr-prak-2309020278/
